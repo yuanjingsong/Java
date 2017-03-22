@@ -2,7 +2,6 @@ import java.util.*;
 public class FindGCDandLCm {
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
 		System.out.println("Input 2 numbers");
 		Scanner in = new Scanner (System.in);
 		int a = in.nextInt();
